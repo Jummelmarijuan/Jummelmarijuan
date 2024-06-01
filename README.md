@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Jummel Marijuan from Philippines<br><br>- 🔭 I’m currently working as ROW Officer<br>- 📚 I'm currently learning Javascript and React JS<br>- ⚡ In my free time I love watching anime and coding</p>
+<p align="left">I'm Jummel Marijuan from Philippines<br><br>- 🔭 I’m currently working as ROW Officer<br>- 📚 I'm currently learning Javascript and React<br>- ⚡ In my free time I love watching anime and coding</p>
 
 ###
 
